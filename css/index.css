@@ -1,0 +1,54 @@
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+.logo {
+    width: 100%;
+}
+
+.mainview {
+    width: 100%;
+}
+
+.title {
+    width: 100%;
+    /* margin-top: 10px; */
+}
+
+.salon01 {
+    width: 100%;
+}
+
+.salon02 {
+    width: 100%;
+    margin-top: 90px;
+}
+
+.salon03 {
+    width: 100%;
+    margin-top: 90px;
+}
+
+.insta {
+    width: 38%;
+    margin-left: 8%;
+    margin-right: 6%;
+}
+
+.hp {
+    width: 38%;
+}
+
+
+.back_button {
+    width: 100%;
+    margin-top: 60px;
+}
