@@ -23,6 +23,24 @@ a {
     /* margin-top: 10px; */
 }
 
+.HowToUse {
+    position: relative;
+}
+
+.login {
+    position: absolute;
+    width: 85%;
+    top: 39.9%;
+    left: 8%;
+}
+
+.questant {
+    position: absolute;
+    width: 85%;
+    top: 81.1%;
+    left: 8%;
+}
+
 .salon01 {
     width: 100%;
 }
