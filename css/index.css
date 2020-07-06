@@ -24,21 +24,29 @@ a {
 }
 
 .HowToUse {
+    /* width: 100%; */
     position: relative;
+}
+
+.how-to-use {
+    width: 100%;
+    position: relative;
+    /* position: absolute; */
 }
 
 .login {
     position: absolute;
-    width: 85%;
+    width: 77%;
     top: 39.9%;
-    left: 8%;
+    left: 13%;
 }
 
 .questant {
     position: absolute;
-    width: 85%;
+    width: 77%;
     top: 81.1%;
-    left: 8%;
+    left: 13%;
+    margin-top: 9px;
 }
 
 .salon01 {
